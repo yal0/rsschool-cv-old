@@ -17,6 +17,7 @@
 * HTML5, CSS3
 * Java Script
 * C++
+* MS SQL, MySQL
 * Git
 
 ##Code example
@@ -34,9 +35,9 @@ function rgb(r, g, b)
 }
 ```
 
-##Experience
+<!-- ##Experience -->
 
-##Education
+<!-- ##Education -->
 
 ##Language
 * Russian - Native
