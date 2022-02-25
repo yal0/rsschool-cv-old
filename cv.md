@@ -11,11 +11,28 @@
 
 ---
 
-##About Me
+<!-- ##About Me -->
 
 ##Skills
+* HTML5, CSS3
+* Java Script
+* C++
+* Git
 
 ##Code example
+
+```Java Script
+function ColorToHex(color) {
+  var hex = (color<0)? '00' : (color>255)? 'FF' : color.toString(16);
+  hex=(hex.length == 1) ? "0" + hex : hex;
+  return hex.toUpperCase();
+}
+
+function rgb(r, g, b) 
+{
+  return ColorToHex(r) + ColorToHex(g) + ColorToHex(b);
+}
+```
 
 ##Experience
 
@@ -23,4 +40,4 @@
 
 ##Language
 * Russian - Native
-* English - B1
+* English - B2
