@@ -1,6 +1,6 @@
-#Olga Zhuravleva
+# Olga Zhuravleva
 <!-- --- -->
-##Contact information:
+## Contact information:
 
 **Location:** Saint Petersburg, Russia
 **E-mail:** [loriurgas@gmail.com](mailto:loriurgas@gmail.com)
@@ -11,18 +11,18 @@
 
 ---
 
-<!-- ##About Me -->
+<!-- ## About Me -->
 
-##Skills
+## Skills
 * HTML5, CSS3
 * Java Script
 * C++
 * MS SQL, MySQL
 * Git
 
-##Code example
+## Code example
 
-```Java Script
+``` Java Script
 function ColorToHex(color) {
   var hex = (color<0)? '00' : (color>255)? 'FF' : color.toString(16);
   hex=(hex.length == 1) ? "0" + hex : hex;
@@ -35,10 +35,10 @@ function rgb(r, g, b)
 }
 ```
 
-<!-- ##Experience -->
+<!-- ## Experience -->
 
-<!-- ##Education -->
+<!-- ## Education -->
 
-##Language
+## Language
 * Russian - Native
 * English - B2
